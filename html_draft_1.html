@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mosquito Transposon Database</title>
+</head>
+<body>
+
+<h1>Enter Search Query</h1>
+
+<form>
+	<div>
+		<label for = "species_id">Species ID: </label>
+			<input id = "species_id" type="number" name="species_id">
+		<label for = "species_name">Species Name: </label>
+			<select id = "species_name">
+				<option value = "1">Aedes Aegypti</option>
+				<option value = "2">Anopheles Gambiae</option>
+				<option value = "3">Culex Quinquefasciatus</option>
+				<option value = "4">Aedes Albopictus</option>
+			</select>
+	</div>
+	<div>
+		<label for = "transposon_id">Transposon ID: </label>
+			<input id = "transposon_id" type="number" name="transposon_id">
+		<label for = "accession_number">Accession Number: </label>
+			<input id = "accession_number" type="text" name="accession_number">
+		<label for = "transposon_type">Transposon Type: </label>
+			<select id = "transposon_type">
+				<option>DNA</option>
+				<option>RNA</option>
+				<option>Unknown</option>
+			</select>
+		<label for = "transposon_name">Transposon Name: </label>
+			<input id = "transposon_name" type="text" name="transposon_name">
+	</div>
+	<div>
+		<label for = "transcript_id">Transcript ID: </label>
+			<input id = "transcript_id" type="number" name="transcript_id">
+		<label for = "sequence">Sequence: </label>
+			<input id = "sequence" type="text" name="sequence">
+		<label for = "sequence_length">Sequence Length: </label>
+			<input id = "sequence_length" type="number" name="sequence_length">
+	</div>
+</form>
+
+</body>
+</html>
