@@ -1,5 +1,5 @@
 # Mosquito Transposon Database
-https://laulab.bu.edu/cgi-bin/MTD/webpage_draft_1.py  
+https://laulab.bu.edu/MTD/ 
 
 # Contributors:
 - Simran Makwana simranmakw@gmail.com makwana@bu.edu
