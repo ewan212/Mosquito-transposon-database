@@ -29,4 +29,9 @@ This project aims to create a website that will serve as a search tool for mosqu
 # Repository Contents:
 parse_fasta.py: given fasta files, use SeqIO to parse fasta files and save elements in separate files
 create_transposon_input.py: given fasta files, create csv file used to populate "transposon" table 
-
+transposon_order_page_daisy.py: search by transposon order function
+transposon_class_page_evie.py: search by transposon class function
+webpage_copy_simran.py: search by species function
+explore_page.py: Browse page 
+DL_webpage_draft_1.py: download files function
+help_page_evie.py: help page
