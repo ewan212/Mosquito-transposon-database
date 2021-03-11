@@ -8,11 +8,11 @@ https://laulab.bu.edu/MTD/
 - Nick Mosca njmosca@bu.edu
 
 Search by Species Function: Simran Makwana <br/>
-Search by Class Function: Evie Wan 
-Search by Transposon Order Function: Daisy Han
-Browse Page: Simran Makwana
-Help page: Evie Wan
-About page: Nick Mosca
+Search by Class Function: Evie Wan <br/>
+Search by Transposon Order Function: Daisy Han <br/>
+Browse Page: Simran Makwana <br/>
+Help page: Evie Wan <br/>
+About page: Nick Mosca <br/>
 
 ## Project Overview
 This project aims to create a website that will serve as a search tool for mosquito transposable elements(transposons) for scientists in Dr. Nelson Lau's Lab at Boston University Medical School. Users will be able to search for transposons based on different classification criteria and compare them within four closely related mosquito species.  
