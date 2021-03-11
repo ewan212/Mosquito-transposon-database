@@ -7,7 +7,7 @@ https://laulab.bu.edu/MTD/
 - Evie Wan ewan212@bu.edu
 - Nick Mosca njmosca@bu.edu
 
-Search by Species Function: Simran Makwana
+Search by Species Function: Simran Makwana <br/>
 Search by Class Function: Evie Wan 
 Search by Transposon Order Function: Daisy Han
 Browse Page: Simran Makwana
